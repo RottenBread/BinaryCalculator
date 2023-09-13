@@ -1,4 +1,4 @@
-import BinaryCalculator
+from ReverseBinary import ReverseBinary
 
 def NumToBinary(number):
     try:
