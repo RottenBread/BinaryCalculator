@@ -8,5 +8,6 @@ def NumToBinary(number):
             binary = binary + str(bit_binary)
             number = number//2
         return binary
+
     except Exception as er:
         print(f"NumToBinary : {er}")
